@@ -4,7 +4,7 @@ from training import training_procedure
 parser = argparse.ArgumentParser()
 
 # add arguments
-parser.add_argument('--cuda', type=bool, default=False, help="run the following code on a GPU")
+parser.add_argument('--cuda', type=bool, default=True, help="run the following code on a GPU")
 
 parser.add_argument('--batch_size', type=int, default=64, help="batch size for training")
 parser.add_argument('--image_size', type=int, default=28, help="height and width of the image")
