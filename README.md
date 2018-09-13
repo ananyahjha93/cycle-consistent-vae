@@ -15,6 +15,10 @@ The repository provides the files necessary to train our architecture on MNIST d
 The other two works used for comparison are:
  - Mathieu et al. (https://arxiv.org/abs/1611.03383)
  - Szabó et al. (https://arxiv.org/abs/1711.02245)
+ 
+Adding a link to a version of the 2D Sprites dataset. This dataset was provided by Scott Reed in his work 'Deep Visual Analogy-Making'. Be sure to cite his work if you use the dataset. 
+
+http://www-personal.umich.edu/~reedscot/files/nips2015-analogy-data.tar.gz
 
 ## Abstract
 
